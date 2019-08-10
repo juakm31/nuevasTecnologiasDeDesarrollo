@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#justificacion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#explicacion {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#temas {
+    text-align: center
+}
+tr {
+    border: 1px solid black
+}
+td {
+    border: 1px solid black
+}
